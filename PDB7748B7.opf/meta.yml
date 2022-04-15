@@ -1,0 +1,29 @@
+id: PDB7748B7
+initial_creation_type: input
+source_metadata:
+  title: Hagiography of Don yod dpal (1398–1483/84)
+  author: gser mdog paN chen shAkya mchog ldan/
+  description: 'Digital version 4.0 {Wylie}; WYLIE COPY of master xml (completed:
+    2012-09); head entries supplemented and linebreaks encoded, revision in process,
+    no thematic TEI markup'
+  source: https://sakyaresearch.org
+  file_info:
+  - 'Language: Wylie'
+  - 'Coverage: Full Text'
+  - 'Accessible: publicly'
+  responibilities:
+  - Digital edition:Sakya Research Centre (src)
+  - Text input:Volker Caumanns (vc)
+  - Editorial process:Volker Caumanns (vc), Mathias Fermer (mf)
+  - TEI Encoding:Sakya Research Centre
+  - TEI Markup:-
+  - Revisions/Corrections:Volker Caumanns (vc)
+  text_witnesses: https://sakyaresearch.org/sources/361
+  bases:
+    476d:
+      title: Hagiography of Don yod dpal (1398–1483/84)
+      order: 1
+      base_file: 476d.txt
+created_at: '2022-04-15T18:58:57.844661'
+last_modified_at: '2022-04-15T18:58:57.844670'
+quality: null
